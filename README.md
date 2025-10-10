@@ -36,10 +36,10 @@ If you’ve ever wanted to dip your toe into programming, this is your chance to
 
 ## 📅 Event details
 
-📍 **Location:** University of Liverpool. Exact Location TBA. 
-🗓️ **Date & Time:** Wed 5 Nov. 5 - 7pm
-💻 **Level:** Absolute beginner  
-💰 **Cost:** Free!
+- 📍 **Location:** University of Liverpool. Exact Location TBA. 
+- 🗓️ **Date & Time:** Wed 5 Nov. 5 - 7pm
+- 💻 **Level:** Absolute beginner  
+- 💰 **Cost:** Free!
 
 ---
 
