@@ -22,7 +22,6 @@ We’ll explore a large open movie dataset, listen to classic **soundtracks**, a
 
 - 🎥 A **movie-themed Python workshop** using real film data  
 - 🐝 Friendly “**Beekeepers**” (our volunteer helpers) ready to support you  
-- ☕ **Coffee, biscuits, and fruit** provided — just **bring your own mug!**  
 - 🤝 A **super informal**, **fun**, and **inclusive** environment — no experience needed  
 
 ---
@@ -36,7 +35,7 @@ If you’ve ever wanted to dip your toe into programming, this is your chance to
 
 ## 📅 Event details
 
-- 📍 **Location:** University of Liverpool. Exact Location TBA. 
+- 📍 **Location:** University of Liverpool. Central Teaching Labs. PC Teaching Centre. First Floor.
 - 🗓️ **Date & Time:** Wed 5 Nov. 5 - 7pm
 - 💻 **Level:** Absolute beginner  
 - 💰 **Cost:** Free!
